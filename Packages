@@ -1,13 +1,13 @@
-Package: com.korfi8267.testpackage
-Name: Test Package
-Version: 0.1
+Package: com.korfi8267.wii-ios
+Name: Wii-iOS
+Version: 1.0
 Architecture: iphoneos-arm
-Description: This is a test.
-Maintainer: macwells3599@yahoo.com
-Author: macwells3599@yahoo.com
-Section: Test 
+Description: Relive the old days of the Wii in a new way.
+Maintainer: Korfi8267
+Author: Korfi8267
+Section: Themes 
 Depends: com.spark.snowboard
-Filename: testfilename
+Filename: debs/com.korfi8267.wii-ios.1.0.deb
 Size: 288338
 MD5sum: b75117d95f75bf359c919f22c6b6e046
 SHA1:  d4f9e443a3a72c0e4e43b92bff7379bcdf47a837
