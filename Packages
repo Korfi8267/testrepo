@@ -1,0 +1,14 @@
+Package: com.korfi8267.testpackage
+Name: Test Package
+Version: 0.1
+Architecture: iphoneos-arm
+Description: This is a test.
+Maintainer: macwells3599@yahoo.com
+Author: macwells3599@yahoo.com
+Section: Test 
+Depends: com.spark.snowboard
+Filename: testfilename
+Size: 288338
+MD5sum: b75117d95f75bf359c919f22c6b6e046
+SHA1:  d4f9e443a3a72c0e4e43b92bff7379bcdf47a837
+SHA256: 61c12ae8c695a6f4a63ad2e5bb62bf0b5de1843196d6a27224be3859f483e1c5
