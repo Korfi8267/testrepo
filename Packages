@@ -6,7 +6,7 @@ Description: Relive the old days of the Wii in a new way.
 Maintainer: Korfi8267
 Author: Korfi8267
 Section: Themes 
-Depends: com.spark.snowboard
+Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: debs/com.korfi8267.wii-ios.1.0.deb
 Size: 288338
 MD5sum: 3cd47c84bc09c7c81d3687aeb2ab7a95
