@@ -7,8 +7,8 @@ Maintainer: Korfi8267
 Author: Korfi8267
 Section: Themes 
 Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: debs/com.korfi8267.wii-ios.1.0.deb
+Filename: debs/Wii-iOS.1.0.deb
 Size: 288338
-MD5sum: 3cd47c84bc09c7c81d3687aeb2ab7a95
-SHA1:  a099efff8be8462acb6b5d1a67bd766403485659
-SHA256: 662ce0751edb6d5076ec6f9569a78706b6f6a885186785976fbed2037ff0aa58
+MD5sum: 32804e474817b72db4bef99ff5ffc445
+SHA1:  f567b2136824e16c633f142438fd4cbb581951fe
+SHA256: 97a5bb7536e667a0d0cdc4932b3d202937b84c3109600127833eea0a4e05735f
